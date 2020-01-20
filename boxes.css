@@ -1,0 +1,20 @@
+.box {width:300px; height:300px; background-color:#000; margin:0 auto;}
+
+/*Box 1 transitions*/
+    .b-1 .box {background-color:red;}
+
+
+/*Box 2 transitions*/
+    .b-2 .box {background-color:#795548;}
+
+/*Box 3 transitions*/
+    .b-3 .box {background-color:#FF7043;}
+
+
+/*Box 4 transitions*/
+    .b-4 .box {background-color:#00796B;}
+
+
+/*Box 5 transitions*/
+    .b-5 .box {background-color:#01579B;}
+
